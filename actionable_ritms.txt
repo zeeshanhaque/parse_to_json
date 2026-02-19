@@ -1,0 +1,46 @@
+{
+   "records": [
+      {
+         "number": "RITM1234567",
+         "cat_item": "Risk Rolling",
+         "requested_for": "John DOE",
+         "opened_at": "2026/02/13 21:56:20",
+         "sys_updated_on": "2026/02/13 21:56:21",
+         "u_desired_completion_date": "2026/02/12",
+         "u_requestdetails": "Hello, hope you are well. Please send the file ROTE_STXPUS_DELTASHIFT.DAT for date 12/02. Thank you.",
+         "files": [
+            "ROTE_STXPUS_DELTASHIFT.DAT"
+         ]
+      },
+      {
+         "number": "RITM7234561",
+         "cat_item": "Risk Rolling",
+         "requested_for": "Jane HEATH PYFER",
+         "opened_at": "2026/02/13 21:14:36",
+         "sys_updated_on": "2026/02/13 21:16:31",
+         "u_desired_completion_date": "2026/02/12",
+         "u_requestdetails": "Hi, Please help me with the files TOPS_SHIFTED_2_FLXUSD.DAT TOPS_SHIFTED_3_FLXUSD.DAT TOPS_SHIFTED_2_RYTUSD.DAT TOPS_SHIFTED_PW_STSUSD.DAT Thanks.",
+         "files": [
+            "TOPS_SHIFTED_2_FLXUSD.DAT",
+            "TOPS_SHIFTED_3_FLXUSD.DAT",
+            "TOPS_SHIFTED_2_RYTUSD.DAT",
+            "TOPS_SHIFTED_PW_STSUSD.DAT"
+         ]
+      },
+      {
+         "number": "RITM1654327",
+         "cat_item": "Risk Rolling",
+         "requested_for": "Katie MARK THOMAS",
+         "opened_at": "2026/02/12 18:14:36",
+         "sys_updated_on": "2026/02/13 06:14:56",
+         "u_desired_completion_date": "2026/02/10",
+         "u_requestdetails": "We need the mentioned files for 02/13: 1191_BONDDASH(FX=EUR).ALPHA.DAT 1192_BONDDASH(FX=EUR).ALPHA.DAT 1191_BONDDASH(FX=EUR).GAMMA.DAT 1192_BONDDASH(FX=EUR).GAMMA.DAT Best Regards, Katie Thomas",
+         "files": [
+            "1191_BONDDASH(FX=EUR).ALPHA.DAT",
+            "1192_BONDDASH(FX=EUR).ALPHA.DAT",
+            "1191_BONDDASH(FX=EUR).GAMMA.DAT",
+            "1192_BONDDASH(FX=EUR).GAMMA.DAT"
+         ]
+      }
+   ]
+}
