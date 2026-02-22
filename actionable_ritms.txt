@@ -9,6 +9,7 @@
          "u_desired_completion_date": "2026/02/12",
          "u_requestdetails": "Hello, hope you are well. Please send the file ROTE_STXPUS_DELTASHIFT.DAT for date 12/02. Thank you.",
          "files": [
+            "TOPS_SHIFTED_3_FLXUSD.DAT",
             "ROTE_STXPUS_DELTASHIFT.DAT"
          ]
       },
@@ -24,6 +25,7 @@
             "TOPS_SHIFTED_2_FLXUSD.DAT",
             "TOPS_SHIFTED_3_FLXUSD.DAT",
             "TOPS_SHIFTED_2_RYTUSD.DAT",
+            "ROTE_STXPUS_DELTASHIFT.DAT",
             "TOPS_SHIFTED_PW_STSUSD.DAT"
          ]
       },
